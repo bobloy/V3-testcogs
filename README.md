@@ -1,0 +1,1 @@
+# This is an example cog for testing [Red-DiscordBot V3](https://github.com/Cog-Creators/Red-DiscordBot/tree/V3/develop)
